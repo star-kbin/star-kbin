@@ -48,8 +48,8 @@ Turning **data into insight** and **insight into products** 🚀
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/david-kang628)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kbin1976@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/david-kang628)
 [![Homepage](https://img.shields.io/badge/Homepage-F89820?style=flat&logo=About.me&logoColor=white)](https://mirage-iguanadon-89f.notion.site/We-are-made-of-star-suff-a2ef12dc3dda4b5a854718f643232f70)
 
 ---
