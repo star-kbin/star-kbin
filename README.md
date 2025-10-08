@@ -40,7 +40,7 @@ Turning **data into insight** and **insight into products** 🚀
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 **Engineering Tools**  
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-3776AB?style=flat&logo=autodesk&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=dassaultsystemes&logoColor=white)
 ![Autodesk Inventor](https://img.shields.io/badge/Inventor-FF9900?style=flat&logo=autodesk&logoColor=white)
 ![Minitab](https://img.shields.io/badge/Minitab-005B43?style=flat&logoColor=white)
