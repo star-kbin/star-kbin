@@ -38,6 +38,7 @@ Turning **data into insight** and **insight into products** 🚀
 **DevOps & Cloud**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
 **Engineering Tools**  
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-3776AB?style=flat&logo=autodesk&logoColor=white)
